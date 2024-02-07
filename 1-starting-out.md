@@ -37,3 +37,13 @@ A FEW MOMENTS LATER....
  Finished release [optimized] target(s) in 24m 33s
 ```
 The node has successfully compiled!!
+
+
+# TODO:
+
+Summary of Madara as a sequencer
+- Madara's Architecture
+- Running a node using the starter app template
+- Pallet and runtime configuration
+- Creating a sample app chain using the pallet_starknet
+- Creating a new pallet for your appchain
