@@ -118,6 +118,10 @@ yarn start
 
 
 
+- Check out the nicks pallet in substrate
+- Finish updating the nicks pallet in madara
+
+
 
 
 
